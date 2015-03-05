@@ -13,15 +13,15 @@ Hexo theme: Apollo
 
 Run this command from inside your hexo project
 ``` bash
-$ git clone https://github.com/joyceim/hexo-theme-apollo.git themes/apollo
+$ git clone https://github.com/madmadcat/hexo-theme-luna.git themes/luna
 ```
 
-**Apollo requires Hexo 2.4 and above.**
+**Luna requires Hexo 2.4 and above.**
 
 ###Update
 
 ``` bash
-cd themes/apollo
+cd themes/luna
 git pull
 ```
 
