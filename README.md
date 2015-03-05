@@ -1,4 +1,4 @@
-Hexo theme: Apollo
+Hexo theme: Luna
 =================
 
 **This hexo theme is modified from SANOGRAPHIX.NET**
