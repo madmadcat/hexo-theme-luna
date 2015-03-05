@@ -49,3 +49,7 @@ favicon: /favicon.png
 - **fancybox** - Enable [Fancybox](http://fancyapps.com/fancybox/)
 - **google_analytics** - Google Analytics ID
 - **favicon** - Favicon path
+
+##Change Log
+- 20150305 add TOC support in article page
+- 20150305 add TOC css 
